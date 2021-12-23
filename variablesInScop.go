@@ -15,5 +15,6 @@ referance varaible shadwoing
 func main() {
 	fmt.Println(i)
 	var i int = 43
+	j := 12
 	fmt.Println(i)
 }
