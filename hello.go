@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("hello fucker")
-	fmt.Print(24)
+	var i int
+	i = 34
+	fmt.Println(i)
 }
