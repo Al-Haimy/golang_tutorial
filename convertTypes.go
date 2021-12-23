@@ -16,6 +16,9 @@ package main
 		* Caitalize acronyms(HTTP, URL)
 	- As short as reasonable
 		* longer names for longer lives
+# Type conversions
+	- destination Type(variable)
+	- use strconv package for strings
 */
 
 import (
